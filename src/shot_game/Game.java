@@ -52,7 +52,7 @@ public class Game {
         }
         return result;
     }
-
+//构造函数可以初始化参数
     Game(){
 
     }
